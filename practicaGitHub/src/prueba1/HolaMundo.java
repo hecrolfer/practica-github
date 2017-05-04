@@ -12,4 +12,5 @@ public class HolaMundo {
 	public static String holaMundo2() {
 		return "Mundo!!!";
 	}
+
 }
